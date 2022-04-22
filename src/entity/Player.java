@@ -183,14 +183,11 @@ public class Player extends Entity{
                     spriteCounter = 0;
                 }
             
-            
                         gp.eHandler.checkEvent();
                         gp.keyH.enterPressed = false;
                      //IF COLLISION IS FALSE PLAYER CAN MOVE
                     }
                 }
-                     //IF COLLISION IS FALSE PLAYER CAN MOVE
-                
             
     public void pickUpObject(int i) {
             
